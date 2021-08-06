@@ -1,0 +1,6 @@
+<svg id="Icons_icon-added-to-fav" data-name="Icons/icon-added-to-fav" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Rectangle" width="24" height="24" rx="12" fill="#fff"/>
+  <g id="Icons_icon-bookmark-filled" data-name="Icons/icon-bookmark-filled" transform="translate(2 2)">
+    <path id="Path" d="M8.135,0H.2A.189.189,0,0,0,0,.2V11.456a.212.212,0,0,0,.1.181.178.178,0,0,0,.2,0L4.167,9.285l3.869,2.351a.147.147,0,0,0,.1.02.177.177,0,0,0,.1-.02.212.212,0,0,0,.1-.181V.2a.189.189,0,0,0-.2-.2Z" transform="translate(5.833 4.167)"/>
+  </g>
+</svg>

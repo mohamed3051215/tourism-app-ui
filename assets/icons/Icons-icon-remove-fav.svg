@@ -1,0 +1,4 @@
+<svg id="Icons_icon-remove-fav" data-name="Icons/icon-remove-fav" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Frame" width="24" height="24" rx="12"/>
+  <path id="icon-minus" d="M8,0A.819.819,0,0,1,8.75.875.819.819,0,0,1,8,1.75H.748A.819.819,0,0,1,0,.875.819.819,0,0,1,.748,0Z" transform="translate(7.625 11.125)" fill="#fff"/>
+</svg>
